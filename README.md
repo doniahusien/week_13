@@ -9,7 +9,7 @@ This repository contains two projects: a Todo app and a PHP registration form wi
 - Add, delete, and mark tasks as completed.
 - Simple and intuitive user interface.
 - Tasks stored in a JSON file
-- 
+  
 ### Usage
 
 1. Open `index.php` in your web browser to access the Todo app.
