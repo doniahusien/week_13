@@ -1,4 +1,4 @@
-# Todo App & PHP Registration Form with JSON
+# Todo App & PHP Registration Form
 
 This repository contains two projects: a Todo app and a PHP registration form with validation, both utilizing JSON for data storage.
 
